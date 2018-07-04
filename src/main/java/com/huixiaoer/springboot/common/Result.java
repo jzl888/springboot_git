@@ -1,5 +1,8 @@
 package com.huixiaoer.springboot.common;
 
+/**
+ * 定义返回体
+ */
 public class Result {
     private int code;
     private String message;

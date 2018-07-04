@@ -13,6 +13,9 @@ import org.springframework.transaction.PlatformTransactionManager;
 
 import javax.sql.DataSource;
 
+/**
+ * 自定义配置类，用来替换yml中 mybatis的配置
+ */
 @Configuration
 public class MyBatisConfig {
 
